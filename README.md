@@ -1,6 +1,7 @@
 
 ### `README.md`
-```markdown
+
+
 # Fashion-MNIST Image Classification with CNN
 
 This project implements image classification on the **Fashion-MNIST** dataset using **Convolutional Neural Networks (CNNs)** for feature extraction, combined with traditional machine learning models for classification. The objective is to compare the effectiveness of different classifiers when using raw pixel data vs. CNN-extracted features.
